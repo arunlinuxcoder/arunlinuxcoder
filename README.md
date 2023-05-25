@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunlinuxcoder
-- 👀 I’m interested in Embedded C, Automation script writing linux
+- 👀 I’m interested in Embedded C, python script & Shell script writing linux
 - 🌱 I’m currently learning Embedded C
-- 💞️ I’m looking to collaborate on Firmware community
+- 💞️ I’m looking to collaborate on Embedded | Python | Shell community
 - 📫 How to reach me 9962329477|arunkumarm05200@gmail.com
 
 <!---
